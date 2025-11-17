@@ -1,1 +1,183 @@
+[
+  {
+    "id": 1,
+    "name": "Masala Dosa",
+    "price": 120,
+    "category": "South Indian",
+    "rating": 4.7,
+    "image": "https://i.imgur.com/eTmWoAN.png",
+    "description": "Crispy dosa filled with spiced potato masala served with chutney and sambar."
+  },
+  {
+    "id": 2,
+    "name": "Chicken Biryani",
+    "price": 180,
+    "category": "Hyderabadi",
+    "rating": 4.9,
+    "image": "https://i.imgur.com/Uc5YqZC.jpeg",
+    "description": "Aromatic basmati rice cooked with tender chicken, saffron, and Indian spices."
+  },
+  {
+    "id": 3,
+    "name": "Idli Sambar",
+    "price": 70,
+    "category": "South Indian",
+    "rating": 4.6,
+    "image": "https://i.imgur.com/FpLez9F.jpeg",
+    "description": "Soft steamed idlis served with hot sambar and coconut chutney."
+  },
+  {
+    "id": 4,
+    "name": "Paneer Butter Masala",
+    "price": 160,
+    "category": "North Indian",
+    "rating": 4.8,
+    "image": "https://i.imgur.com/6bQpddb.jpeg",
+    "description": "Creamy tomato gravy cooked with soft paneer cubes."
+  },
+  {
+    "id": 5,
+    "name": "Aloo Paratha",
+    "price": 60,
+    "category": "North Indian",
+    "rating": 4.5,
+    "image": "https://i.imgur.com/9x2qf1u.jpeg",
+    "description": "Stuffed wheat flatbread filled with seasoned mashed potatoes."
+  },
+  {
+    "id": 6,
+    "name": "Butter Chicken",
+    "price": 200,
+    "category": "North Indian",
+    "rating": 4.9,
+    "image": "https://i.imgur.com/QmBrJxO.jpeg",
+    "description": "Tender chicken pieces cooked in rich buttery gravy."
+  },
+  {
+    "id": 7,
+    "name": "Chole Bhature",
+    "price": 110,
+    "category": "Punjabi",
+    "rating": 4.7,
+    "image": "https://i.imgur.com/QQdA5aH.jpeg",
+    "description": "Fluffy bhature served with spicy chickpea curry."
+  },
+  {
+    "id": 8,
+    "name": "Pani Puri",
+    "price": 50,
+    "category": "Street Food",
+    "rating": 4.8,
+    "image": "https://i.imgur.com/FLV73fm.jpeg",
+    "description": "Crispy puris filled with spicy tangy water and mashed potatoes."
+  },
+  {
+    "id": 9,
+    "name": "Vada Pav",
+    "price": 40,
+    "category": "Street Food",
+    "rating": 4.6,
+    "image": "https://i.imgur.com/VxYd3Oo.jpeg",
+    "description": "Spicy potato vada placed inside a pav bun."
+  },
+  {
+    "id": 10,
+    "name": "Pav Bhaji",
+    "price": 90,
+    "category": "Street Food",
+    "rating": 4.7,
+    "image": "https://i.imgur.com/4dL0G7o.jpeg",
+    "description": "Mashed vegetable curry served with butter-toasted pav buns."
+  },
+  {
+    "id": 11,
+    "name": "Samosa",
+    "price": 20,
+    "category": "Snack",
+    "rating": 4.3,
+    "image": "https://i.imgur.com/C0fFf8p.jpeg",
+    "description": "Deep-fried pastry filled with spicy potato stuffing."
+  },
+  {
+    "id": 12,
+    "name": "Mutton Curry",
+    "price": 260,
+    "category": "Non-Veg Curry",
+    "rating": 4.9,
+    "image": "https://i.imgur.com/lt6oQiC.jpeg",
+    "description": "Slow-cooked tender mutton pieces in rich gravy."
+  },
+  {
+    "id": 13,
+    "name": "Bisi Bele Bath",
+    "price": 80,
+    "category": "South Indian",
+    "rating": 4.6,
+    "image": "https://i.imgur.com/6L31M6K.jpeg",
+    "description": "Traditional Karnataka dish made with rice, lentils, and vegetables."
+  },
+  {
+    "id": 14,
+    "name": "Poori Masala",
+    "price": 70,
+    "category": "Breakfast",
+    "rating": 4.5,
+    "image": "https://i.imgur.com/7xz0sLs.jpeg",
+    "description": "Fluffy pooris served with potato masala."
+  },
+  {
+    "id": 15,
+    "name": "Medu Vada",
+    "price": 50,
+    "category": "Breakfast",
+    "rating": 4.6,
+    "image": "https://i.imgur.com/94p8MTW.jpeg",
+    "description": "Crispy fried lentil rings served with chutney and sambar."
+  },
+  {
+    "id": 16,
+    "name": "Gulab Jamun",
+    "price": 30,
+    "category": "Dessert",
+    "rating": 4.9,
+    "image": "https://i.imgur.com/BzVSM8Z.jpeg",
+    "description": "Soft fried milk balls soaked in sugar syrup."
+  },
+  {
+    "id": 17,
+    "name": "Rasgulla",
+    "price": 25,
+    "category": "Dessert",
+    "rating": 4.7,
+    "image": "https://i.imgur.com/jqJnLyA.jpeg",
+    "description": "Soft Bengali sweet balls made from chhena."
+  },
+  {
+    "id": 18,
+    "name": "Fish Fry",
+    "price": 150,
+    "category": "Seafood",
+    "rating": 4.8,
+    "image": "https://i.imgur.com/5O0sQXQ.jpeg",
+    "description": "Crispy fried masala-coated fish."
+  },
+  {
+    "id": 19,
+    "name": "Dosa",
+    "price": 90,
+    "category": "South Indian",
+    "rating": 4.6,
+    "image": "https://i.imgur.com/ZtG8PWh.jpeg",
+    "description": "Classic dosa served with chutney and sambar."
+  },
+  {
+    "id": 20,
+    "name": "Veg Thali",
+    "price": 150,
+    "category": "Meals",
+    "rating": 4.8,
+    "image": "https://i.imgur.com/Jrk3ID8.jpeg",
+    "description": "Traditional Indian meal with rice, roti, sabzi, dal, and dessert."
+  }
+]
 
