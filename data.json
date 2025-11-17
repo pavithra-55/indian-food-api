@@ -22,7 +22,7 @@
     "name": "Chicken Biryani",
     "category": "Hyderabadi",
     "price": 180,
-    "image": "https://images.unsplash.com/photo-1604908554433-44aa46f21f3d",
+    "image": "https://raw.githubusercontent.com/pavithra-55/indian-food-api/refs/heads/main/11.png",
     "rating": 4.8,
     "description": "Aromatic basmati rice cooked with marinated chicken and spices."
   },
