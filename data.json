@@ -41,7 +41,7 @@
     "name": "Poori Masala",
     "category": "South Indian",
     "price": 75,
-    "image": "https://images.unsplash.com/photo-1668509168083-37d466e2cff2",
+    "image": "https://raw.githubusercontent.com/pavithra-55/indian-food-api/refs/heads/main/18.jpg",
     "rating": 4.4,
     "description": "Fluffy pooris served with spiced potato masala."
   },
@@ -77,7 +77,7 @@
     "name": "Fish Fry",
     "category": "Seafood",
     "price": 160,
-    "image": "https://images.unsplash.com/photo-1565061824412-5eae4a8737b0",
+    "image": "https://raw.githubusercontent.com/pavithra-55/indian-food-api/refs/heads/main/20.jpg",
     "rating": 4.6,
     "description": "Crispy fried fish marinated with Indian spices."
   },
@@ -137,10 +137,10 @@
   },
   {
     "id": 16,
-    "name": "Pongal",
+    "name": "Lemon rice",
     "category": "South Indian",
     "price": 70,
-    "image": "https://images.unsplash.com/photo-1617093727343-3e2de9c5f03d",
+    "image": "https://raw.githubusercontent.com/pavithra-55/indian-food-api/refs/heads/main/8.jpg",
     "rating": 4.1,
     "description": "Comforting rice-lentil dish with ghee and pepper."
   },
@@ -170,5 +170,14 @@
     "image": "https://raw.githubusercontent.com/pavithra-55/indian-food-api/refs/heads/main/16.jpeg",
     "rating": 4.3,
     "description": "Healthy sprouts with natural peanut, greendhal and etc. "
+  },
+  {
+    "id": 20,
+    "name": "Mini Idli",
+    "category": "Healthy",
+    "price": 80,
+    "image": "https://raw.githubusercontent.com/pavithra-55/indian-food-api/refs/heads/main/19.jpg",
+    "rating": 4.3,
+    "description": "Idli with mini size, 8 no's on a plate"
   }
 ]
