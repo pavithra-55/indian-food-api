@@ -13,7 +13,7 @@
     "name": "Idli Sambar",
     "category": "South Indian",
     "price": 60,
-    "image": "https://images.unsplash.com/photo-1601050690597-1c4f6be1c679",
+    "image": "https://raw.githubusercontent.com/pavithra-55/indian-food-api/refs/heads/main/1.jpg",
     "rating": 4.5,
     "description": "Soft steamed idlis served with sambar and chutney."
   },
