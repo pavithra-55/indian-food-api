@@ -4,7 +4,7 @@
     "name": "Masala Dosa",
     "category": "South Indian",
     "price": 85,
-    "image": "https://images.unsplash.com/photo-1603898037225-1ec9c3c85a3f",
+    "image": "https://raw.githubusercontent.com/pavithra-55/indian-food-api/refs/heads/main/2.jpg",
     "rating": 4.6,
     "description": "Crispy dosa stuffed with spiced potato filling."
   },
